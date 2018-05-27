@@ -15,9 +15,9 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 近畿道　　　　　　　　　E26
 
-西名阪道
+西名阪道　　　　　　　　E25
 
-阪和道（湯浅御坊道路）
+阪和道（湯浅御坊道路）　E24
 
 関西空港道
 
@@ -27,8 +27,8 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 播磨道
 
-京都縦断道
-
+京都縦断道　　　　　E9
+　
 京奈和道
 
 京滋バイパス
