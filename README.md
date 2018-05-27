@@ -23,6 +23,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 関西連絡橋
 
+舞鶴若狭道
 
 
 E26
