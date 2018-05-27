@@ -5,7 +5,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 名神
 
-
+新名神
 
 
 E26
