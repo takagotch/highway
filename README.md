@@ -15,6 +15,9 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 近畿道
 
+西名阪道
+
+
 E26
 
 E25
