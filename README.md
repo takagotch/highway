@@ -13,6 +13,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 山陽道（三木支線）
 
+近畿道
 
 E26
 
