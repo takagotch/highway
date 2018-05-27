@@ -29,6 +29,10 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 京都縦断道
 
+京奈
+
+京滋
+
 
 
 
