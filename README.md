@@ -19,6 +19,10 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 阪和道（湯浅御坊道路）
 
+関西空港道
+
+関西空港
+
 E26
 
 E25
