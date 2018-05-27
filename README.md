@@ -9,6 +9,11 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 中国
 
+山陽道
+
+山陽道（三木支線）
+
+
 E26
 
 E25
