@@ -7,6 +7,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 新名神
 
+中国
 
 E26
 
