@@ -9,7 +9,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 中国
 
-山陽道
+山陽道　　　　　　　　　E2
 
 山陽道（三木支線）
 
