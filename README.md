@@ -25,7 +25,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 舞鶴若狭道　　　　　　　E27
 
-播磨道
+播磨道　　　　　　　　　E29
 
 京都縦断道　　　　　E9
 　
