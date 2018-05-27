@@ -41,6 +41,8 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 第二神明道路北路
 
+
+神戸淡路鳴門
 E26
 
 E25
