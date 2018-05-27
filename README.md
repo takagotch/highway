@@ -98,7 +98,7 @@ http://www.jartic.or.jp/seni.html
 
 神戸　市内　　　　　3号
 
-市内　京都南ラブホ　名神
+市内　京都南     　名神
 
 市内　鴨川西十条
 
