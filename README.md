@@ -29,9 +29,9 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 京都縦断道
 
-京奈
+京奈和道
 
-京滋
+京滋バイパス
 
 
 
