@@ -25,6 +25,9 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 舞鶴若狭道
 
+播磨道
+
+
 
 E26
 
