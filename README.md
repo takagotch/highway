@@ -13,7 +13,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 山陽道（三木支線）
 
-近畿道
+近畿道　　　　　　　　　E26
 
 西名阪道
 
@@ -21,7 +21,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 関西空港道
 
-関西連絡橋
+関西連絡橋　　　　　　　E71
 
 舞鶴若狭道
 
