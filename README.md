@@ -3,7 +3,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 北陸道　　　　　　　　　E8
 
-名神　　　　
+名神　　　　　　　　　　E1
 
 新名神　　　　　　　　　E1A
 
