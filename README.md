@@ -37,6 +37,9 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 南阪奈道
 
+第二神明
+
+第二神明
 
 E26
 
