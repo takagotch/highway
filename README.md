@@ -17,6 +17,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 西名阪道
 
+阪和道（）
 
 E26
 
