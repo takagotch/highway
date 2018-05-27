@@ -35,7 +35,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 第二京阪道
 
-
+南阪奈道
 
 
 E26
