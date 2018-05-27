@@ -49,7 +49,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 ----------------
 
-阪神高速
+阪神高速　　　　15～20分
 http://www.jartic.or.jp/seni.html
 
 
