@@ -7,7 +7,7 @@ https://ihighway.jp/pc/map/map.html?area_id=area_06
 
 新名神　　　　　　　　　E1A
 
-中国
+中国　　　　　　　　　　E2A
 
 山陽道　　　　　　　　　E2
 
